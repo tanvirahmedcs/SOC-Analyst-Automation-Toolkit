@@ -236,6 +236,3 @@ Please keep new SPL queries mapped to a MITRE ATT&CK technique and include a com
 
 ---
 
-## 📜 License
-
-MIT License — see [LICENSE](LICENSE) for details.
